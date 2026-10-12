@@ -1,7 +1,7 @@
 # XeUnshackle Ultra
 ![XeUnshackle_Banner](https://github.com/user-attachments/assets/af37d4ae-4ff6-4175-8f81-47869ff63ed6)
 
-> XeUnshackle Max is an independent fork of [Byrom90/XeUnshackle](https://github.com/Byrom90/XeUnshackle). All original code and core development belong to [Byrom90](https://github.com/Byrom90).
+> XeUnshackle Ultra is an independent fork of [Byrom90/XeUnshackle](https://github.com/Byrom90/XeUnshackle). All original code and core development belong to [Byrom90](https://github.com/Byrom90).
 
 Custom Xbox 360 application designed to be used with the [Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) or [aBADavatar](https://github.com/bibarub/Xbox360BadUpdate) exploit.  
 
